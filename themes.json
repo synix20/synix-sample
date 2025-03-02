@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Spirited Away",
+        "id": "10_spirited_away",
+        "version": 1
+    },
+    {
+        "name": "Studio Ghibli",
+        "id": "11_studio_ghibli",
+        "version": 1
+    },
+    {
+        "name": "One Piece",
+        "id": "12_one_piece",
+        "version": 1
+    },
+    {
+        "name": "Jujutsu Kaisen",
+        "id": "13_jujutsu_kaisen",
+        "version": 1
+    },
+    {
+        "name": "Demon Slayer",
+        "id": "14_demon_slayer",
+        "version": 1
+    },
+    {
+        "name": "Fairy Tail",
+        "id": "15_fairy_tail",
+        "version": 1
+    },
+    {
+        "name": "Attack On Titan",
+        "id": "16_attack_on_titan",
+        "version": 1
+    },
+    {
+        "name": "Dandadan",
+        "id": "17_dandadan",
+        "version": 1
+    },
+    {
+        "name": "Dragon Ball Z",
+        "id": "18_dragon_ball_z",
+        "version": 1
+    },
+    {
+        "name": "Anime LoFi",
+        "id": "1_anime_lofi",
+        "version": 1
+    },
+    {
+        "name": "Anime App Icons",
+        "id": "2_anime",
+        "version": 1
+    },
+    {
+        "name": "Pokemon",
+        "id": "3_pokemon",
+        "version": 1
+    },
+    {
+        "name": "Naruto",
+        "id": "4_naruto",
+        "version": 1
+    },
+    {
+        "name": "Sailor Moon",
+        "id": "5_sailor_moon",
+        "version": 1
+    },
+    {
+        "name": "Mo Dao Zu Shi",
+        "id": "6_mo_dao_zu_shi",
+        "version": 1
+    },
+    {
+        "name": "Cute Fruits Basket",
+        "id": "7_cute_fruits_basket",
+        "version": 1
+    },
+    {
+        "name": "My Hero Academia",
+        "id": "8_mha",
+        "version": 1
+    },
+    {
+        "name": "Chainsaw Man",
+        "id": "9_chainsaw_man",
+        "version": 1
+    }
+]
